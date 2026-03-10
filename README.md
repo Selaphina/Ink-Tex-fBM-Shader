@@ -21,29 +21,7 @@
   材质在模型移动或变形时保持稳定，不产生纹理滑动。
 
 ---
-
-## Unity
-
-兼容 **Unity Built-in Render Pipeline**  
-
-Shader 文件：
-
 将 Shader 应用到材质后即可在模型上生成程序化水墨纹理。
-
----
-
-## Main Parameters
-
-| 参数 | 说明 |
-|---|---|
-| Detail | 噪波细节层数 |
-| Roughness | 噪波粗糙度 |
-| Lacunarity | 频率增长率 |
-| Distortion | 域扭曲强度 |
-| EdgeSharpness | 墨色边界锐度 |
-| EdgeDarken | 水渍边缘加深强度 |
-
----
 
 ## Preview
 ![Ink Shader](Screenshots/ink_shader_preview.png)
