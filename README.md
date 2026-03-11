@@ -3,7 +3,7 @@
 一个用于 **Unity Built-in Render Pipeline** 的水墨风格 Shader。  仿 **Blender 的 3D fBM 噪波算法** 并结合屏幕空间边缘检测，实现unity程序化水墨材质。
 
 * 关于blender内水墨纹理的实现参考了五天晴老师的方案。
-
+![GIFshow](Screenshots/GIFend.gif)
 ![Ink Shader](Screenshots/unity_preview.png)
 
 ## Features
