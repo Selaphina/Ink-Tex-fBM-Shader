@@ -4,7 +4,6 @@
 
 * 关于blender内水墨纹理的实现参考了五天晴老师的方案。
 ![GIFshow](Screenshots/GIFend.gif)
-![Ink Shader](Screenshots/unity_preview.png)
 
 ## Features
 
