@@ -1,4 +1,4 @@
-# Ink Texture fBM Shader (Unity)
+<img width="511" height="1103" alt="image" src="https://github.com/user-attachments/assets/246f2a11-0126-4d46-8a98-c7e0b5bd88e0" /># Ink Texture fBM Shader (Unity)
 
 一个用于 **Unity Built-in Render Pipeline** 的水墨风格 Shader。  仿 **Blender 的 3D fBM 噪波算法** 并结合屏幕空间边缘检测，实现unity程序化水墨材质。
 
@@ -20,7 +20,9 @@
   材质在模型移动或变形时保持稳定，不产生纹理滑动。
 
 ---
-将 Shader 应用到材质后即可在模型上生成程序化水墨纹理。
+将 Shader 应用到材质后，调整开放出来的参数达到自己预期的效果。
+![Ink Shader](Screenshots/panel.png)
+
 
 ## Preview
 ![Ink Shader](Screenshots/ink_shader_preview.png)
