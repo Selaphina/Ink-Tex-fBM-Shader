@@ -45,7 +45,6 @@ Shader "FX/InkTextest01"
 
 		// =============================================
 		// Pass 1: OUTLINE — noise-modulated outline
-		// (from MountainShader)
 		// =============================================
 		Pass
 		{
@@ -109,7 +108,6 @@ Shader "FX/InkTextest01"
 
 		// =============================================
 		// Pass 2: OUTLINE 2 — wider random-clipped outline
-		// (from MountainShader)
 		// =============================================
 		Pass
 		{
