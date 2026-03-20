@@ -25,5 +25,4 @@
 ![Ink Shader](Screenshots/panel.png)
 
 
-## Preview
-![Ink Shader](Screenshots/ink_shader_preview.png)
+
